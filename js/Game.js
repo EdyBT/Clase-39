@@ -91,5 +91,5 @@ class Game {
     drawSprites();
   }
   end(){
-  console.log("game ended")
+  console.log("game ended");
   }
